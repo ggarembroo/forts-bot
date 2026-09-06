@@ -1,0 +1,17 @@
+# Python bytecode cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+
+# Logs
+*.log
+
+# Debug screenshots (generated)
+debug_*.png
+
+# ML artifacts (large, generated - keep out of VCS)
+dataset/
+yolo_test/test_imaige/
+yolo_test/*_test/
